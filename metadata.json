@@ -1,0 +1,10 @@
+{
+  "name": "Remix Weather-Based Farm Advisory Agent",
+  "description": "AI-powered agricultural advisory system with stage-by-stage crop life-cycle management, real-time weather integration, irrigation guidance, and proactive alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
